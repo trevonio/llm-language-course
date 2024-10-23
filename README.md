@@ -1,2 +1,25 @@
 # llm-language-course
 A first attempt to describe how a language course could look like using LLM, SRS and others.
+
+Definitions:
+
+IPA: The International Phonetic Alphabet (IPA) is a standardized system of phonetic notation designed to represent the sounds of spoken language. It uses a unique set of symbols to denote each distinct sound (phoneme) across all languages, allowing for precise and consistent transcription of speech.
+
+There are several courses available to help you understand the International Phonetic Alphabet (IPA). Here are a few options:
+
+1.- Udemy: The course “Intro to the International Phonetic Alphabet” on Udemy provides a comprehensive introduction to IPA, focusing on the symbols needed for American English1: https://www.udemy.com/course/intro-to-the-international-phonetic-alphabet/?couponCode=MTST7102224A2
+
+2.- YouTube: There are various tutorials available on YouTube, such as:
+   - “Learn Phonetics (IPA) in under 5 minutes” by English Like A Native2: https://www.youtube.com/watch?v=2pxrDWjEBoE
+
+   - “How to Read IPA - Learn How Using IPA Can Improve Your Pronunciation” by Oxford Online English3: https://www.youtube.com/watch?v=WU7p-RptAfI
+
+3.- Ace Linguist: The “Crash Course: International Phonetic Alphabet (IPA)” on Ace Linguist offers a detailed guide to learning IPA, including practical exercises and tips. https://www.acelinguist.com/p/crash-course-international-phonetic.html
+
+SRS and Anki: 
+
+Spaced Repetition System (SRS)
+A Spaced Repetition System (SRS) is a learning technique that optimizes the timing of reviews to enhance memory retention. It is based on the concept of the “forgetting curve,” which suggests that information is more likely to be remembered if it is reviewed at increasing intervals just before it is forgotten. By scheduling reviews at these optimal intervals, SRS helps learners retain information more efficiently and effectively1.
+
+Anki
+Anki is a popular software application that implements the principles of spaced repetition to aid in learning and memorization. It allows users to create digital flashcards and schedules reviews based on how well the user remembers each card. Anki uses an algorithm to determine the optimal time to review each card, ensuring that information is reviewed just before it is likely to be forgotten. This method helps maximize retention while minimizing the amount of time spent reviewing2.
